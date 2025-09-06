@@ -1,0 +1,2 @@
+# Mycraft
+A better Minecraft
